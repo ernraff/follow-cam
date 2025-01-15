@@ -50,6 +50,6 @@ This project is a work-in-progress implementation of an object detection system 
    pip install requirements.txt
 
 3.  Run the program
-   ```bash
+    ```bash
    python main.py
    
