@@ -1,6 +1,6 @@
 # Object Detection and Camera Tracking Project
 
-This project is a work-in-progress implementation of an object detection system using OpenCV and YOLOv8 from Ultralytics. The current functionality includes real-time object detection with bounding boxes and class names displayed on a video feed. Future iterations will incorporate robotics for camera panning and a full-stack application for video storage and user interface.
+This project is a work-in-progress implementation of an object detection system using OpenCV and YOLOv11 from Ultralytics. The current functionality includes real-time object detection with bounding boxes and class names displayed on a video feed. Future iterations will incorporate robotics for camera panning and a full-stack application for video storage and user interface.
 
 ---
 
