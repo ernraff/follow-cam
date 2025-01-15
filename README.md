@@ -51,5 +51,5 @@ This project is a work-in-progress implementation of an object detection system 
 
 3.  Run the program
     ```bash
-   python main.py
+    python main.py
    
